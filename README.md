@@ -16,7 +16,7 @@ Espressif Systems is a privately held fabless semiconductor company. They provid
 
 ```ini
 [env:stable]
-platform = replace with url
+platform = https://github.com/tasmota/platform-espressif32/releases/download/v2.0.2.2/platform-espressif32-2.0.2.zip
 board = ...
 ...
 ```
