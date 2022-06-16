@@ -37,7 +37,7 @@
       "type": "framework",
       "optional": true,
       "owner": "hub",
-      "version": "https://gitlab.ise.de/api/v4/projects/1691/packages/generic/arduino-esp32/0.0.6/arduino-esp32.tar.gz"
+      "version": "https://nexus.ise.de/repository/firmware/arduino-esp32/arduino-esp32.tar.gz"
     },
     "framework-espidf": {
       "type": "framework",
